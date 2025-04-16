@@ -93,3 +93,4 @@ startButton.addEventListener("click", () => {
     canvas.style.display = "block"; // Mostra il canvas
     gameInterval = setInterval(drawGame, 100); // Imposta la velocità del gioco
 });
+<script src="snake.js"></script>
